@@ -54,8 +54,6 @@
 		- NETGEAR WC7600v2
 > A ROUTER CAN BE ACCESS POINT BUT AN ACCESS POINT CAN'T BE ROUTER **?**
 
-![Difference between Router and Switch](1.webp)
-
 ---
 
 > Ethernet Switches market value will reach 1.27B USD this year (projected).
