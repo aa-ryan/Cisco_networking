@@ -1,4 +1,3 @@
----
 # Switch
 
 * Switch facilitate the sharing of resource by connecting together all devices, including computers, printers, and servers, in a small business network.
@@ -6,9 +5,9 @@
 * Connected device can share information.
 
 ### MODELS
-		- NETGEAR JGS524
-		- CISCO SG250-26P Smart Switch
-		- HUAWEI S5720-12TP-LI-AC-Switch
+- NETGEAR JGS524
+- CISCO SG250-26P Smart Switch
+- HUAWEI S5720-12TP-LI-AC-Switch
 
 
 # Router
@@ -20,9 +19,9 @@
 * Ultimately, a router works as a dispatcher, directing traffic and choosing the most efficient route for information, in the form of data packets, to travel accross the network. A router connects you business to world, protects information from security threats, and even decides which devices have priority over others.
 
 ### MODELS
-		- CISCO RV340 Dual WAN Gigabit Router
-		- D-Link DWR-920V
-		- NETGEAR Nighthawk AX6 6-stream Wi-fi 6 router
+- CISCO RV340 Dual WAN Gigabit Router
+- D-Link DWR-920V
+- NETGEAR Nighthawk AX6 6-stream Wi-fi 6 router
 
 ---
 
